@@ -27,7 +27,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-DNTt30-181717?style=for-the-badge&logo=github)](https://github.com/DNTt30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/16XDdEQCDw/?mibextid=wwXIfrhttps://www.facebook.com/share/16XDdEQCDw/?mibextid=wwXIfr)
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
