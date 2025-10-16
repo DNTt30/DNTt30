@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Xin chào! Mình là DNTt30
 
-<!--
-**DNTt30/DNTt30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên ngành Công nghệ Thông tin  
+💻 Yêu thích lập trình Java, Web và học máy  
+🚀 Mục tiêu: trở thành Full-stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![DNTt30's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNTt30&show_icons=true&theme=tokyonight)
+
+## 🔥 Ngôn ngữ sử dụng
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNTt30&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Liên hệ
+- 📧 Email: yourmail@example.com  
+- 🌐 Portfolio: [github.com/DNTt30](https://github.com/DNTt30)
