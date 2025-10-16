@@ -12,29 +12,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**My name is DNTt30**  
-💻 I’m a developer passionate about **Java, Spring Boot, and Web technologies.**  
-🌱 Currently exploring **HTML, CSS, and backend integration.**  
-💬 Ask me about **OOP, Spring Boot, or full-stack web apps.**  
-📫 How to reach me: **(update your email here)**  
-⚡ Fun fact: **I enjoy coding challenges and building new projects!**
+**👨‍💻 My name is DNTt30**  
+💡 A passionate developer who loves **Java, Spring Boot**, and modern **Web Technologies.**  
+🌱 I’m currently exploring **HTML, CSS, backend integration, and clean architecture.**  
+💬 Ask me about **OOP, Spring Boot, or full-stack web development.**  
+📫 Reach me at: **duongngoctund2004@gmail.com**  
+⚡ Fun fact: I enjoy solving coding challenges and creating cool new projects!
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DNTt30-181717?style=for-the-badge&logo=github)](https://github.com/DNTt30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://byvn.net/XW6g)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duongngoctund2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duongngoctund2004@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -53,9 +53,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DNTt30&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNTt30&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DNTt30&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DNTt30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNTt30&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DNTt30&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=DNTt30&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Achievements](https://github-profile-trophy.vercel.app/?username=DNTt30&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
 </div>
 
@@ -93,10 +93,10 @@
 
 <div align="center">
 
-### 🌟 Show some ❤️ by starring some repositories!
+### 🌟 Show some ❤️ by starring my repositories!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DNTt30&color=brightgreen&style=for-the-badge)
 
-**Thanks for visiting! Have a great day! 😊**
+**✨ Thanks for visiting — Have a great day! ✨**
 
 </div>
