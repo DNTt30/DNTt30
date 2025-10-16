@@ -16,7 +16,7 @@
 💻 I’m a developer passionate about **Java, Spring Boot, and Web technologies.**  
 🌱 Currently exploring **HTML, CSS, and backend integration.**  
 💬 Ask me about **OOP, Spring Boot, or full-stack web apps.**  
-📫 How to reach me: **(update your email here)**  
+📫 How to reach me: **duongngoctund2004@gmail.com**  
 ⚡ Fun fact: **I enjoy coding challenges and building new projects!**
 
 ---
